@@ -8,7 +8,9 @@
 * [TeX StackExchange](http://tex.stackexchange.com)
 * [Apple StackExchange](http://apple.stackexchange.com)
 
-[StackOverflow](http://stackoverflow.com)
+[StackOverflow](http://stackoverflow.com)  
+[图灵社区](http://www.ituring.com.cn)  
+>有些新的书籍出版信息，以及文章。支持Markdown。
 
 ##知名博客
 [阳志平的个人网站--技术 ***关于Markdown, Github等***](http://www.yangzhiping.com/tech/)
@@ -21,3 +23,4 @@
 ##编程练功
 [酷壳](http://coolshell.cn)
 >由陈皓建立的技术性BLOG。是一个分享技术见闻，知识，趋势的网站。涉及广泛，不过主要是编程方面知识。
+
