@@ -16,6 +16,9 @@
 [阳志平的个人网站--技术 ***关于Markdown, Github等***](http://www.yangzhiping.com/tech/)
 >从该博客中了解到了更多的关于markdown的知识，写文章的平台工具，以及R语言。R语言有空闲及基础时，可以去学习。
 
+[Linux大棚](http://roclinux.cn)
+>里面有些关于linux的不错的原创文章。还没来得及看。
+
 ##网络书籍
 [GotGitHub](http://www.worldhello.net/gotgithub/index.html)
 >作者是《Git权威指南》一书的作者。本书介绍了Github的相关知识。可以了解。
